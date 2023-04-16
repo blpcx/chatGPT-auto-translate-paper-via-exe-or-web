@@ -32,7 +32,7 @@ computational modeling are tightly integrated into experiments
 ### 专业术语释义（表格）
 | 英文专业术语      | 中文释义 |
 | ----------- | ----------- |
-| neurons      | neurons       |
+| neurons      | 神经元       |
 | stimulus integration   | 刺激整合        |
 | non-linearities   | 非线性        |
 | reverse correlation   | 反向相关法        |
