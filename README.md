@@ -1,6 +1,6 @@
 # 利用学术翻译模板和chatGPT桌面客户端自动化翻译并深入剖析文章脉络
 
-## 翻译&解析效果示例
+## 一、翻译&解析效果示例
 
 #### 原文：
 Throughout the nervous system, neurons integrate high-dimensional input streams and
@@ -59,7 +59,7 @@ computational modeling are tightly integrated into experiments
 本文介绍了一种基于探索相同神经输出的感觉刺激空间的替代方案来测量单个神经元的响应特征，在神经科学领域的研究工作中已经取得了实质性的进展。该方法的优势在于使用iso-response stimuli可以识别非线性并提高研究精度，自动封闭循环实验对于该方法的发展至关重要，快速在线数据分析和计算建模也是必不可少的。该方法主要适用于感觉系统中的前向神经信号传递链，但也成功应用于反馈系统。
 
 
-## 学术翻译模板如下
+## 二、学术翻译模板如下
 ```
 论文翻译任务：英译汉
 
@@ -101,7 +101,7 @@ computational modeling are tightly integrated into experiments
 ……
 ```
 
-## 客户端自动化翻译&解析文章的脚本如下
+## 三、客户端自动化翻译&解析文章的脚本如下
 ```
 import os
 import time
