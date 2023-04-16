@@ -1,7 +1,7 @@
 # 翻译&解析效果示例
-![译文&专业术语示例](relative/path/to/animation.gif)
-![关键句解读示例](relative/path/to/animation.gif)
-![主要观点概括示例](relative/path/to/animation.gif)
+![译文&专业术语示例](/译文&专业术语示例.png)
+![关键句解读示例](/关键句解读示例.png)
+![主要观点概括示例](/主要观点概括示例.png)
 
 
 
