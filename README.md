@@ -1,3 +1,11 @@
+# 翻译&解析效果示例
+![译文&专业术语示例](relative/path/to/animation.gif)
+![关键句解读示例](relative/path/to/animation.gif)
+![主要观点概括示例](relative/path/to/animation.gif)
+
+
+
+
 # 利用学术翻译模板和chatGPT桌面客户端自动化翻译并深入剖析文章脉络
 ## 学术翻译模板如下
 ```
